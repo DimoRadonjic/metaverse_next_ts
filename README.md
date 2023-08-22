@@ -31,7 +31,6 @@ Check out the live demo of the website: [Metaverse Exploration Demo](https://met
    ```bash
    https://github.com/DimoRadonjic/metaverse_next_ts.git
 
-
 ## Technologies Used
 - TypeScript and React for building interactive user interfaces.
 - Tailwind CSS for styling and responsive design.
