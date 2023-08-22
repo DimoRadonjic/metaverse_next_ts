@@ -29,7 +29,7 @@ Check out the live demo of the website: [Metaverse Exploration Demo](https://met
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/metaverse-exploration.git
+   https://github.com/DimoRadonjic/metaverse_next_ts.git
 
 
 ## Technologies Used
